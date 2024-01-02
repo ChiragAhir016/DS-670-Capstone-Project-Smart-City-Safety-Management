@@ -7,7 +7,9 @@ This repository contains the code and documentation for the "Open Banking Safety
 
 # Team
 Chirag Ahir
+
 Kajalben Prajapati
+
 Krinaben Gajjar
 
 # Project Description
